@@ -6,6 +6,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        betcity: {
+          blue: '#060322',
+        },
+      },
       fontFamily: {
         sans: ['ui-sans-serif', 'system-ui'],
         serif: ['ui-serif', 'Georgia'],
