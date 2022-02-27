@@ -9,13 +9,15 @@ module.exports = {
       colors: {
         betcity: {
           blue: '#060322',
+          cyan: '#00f5ff',
         },
       },
       fontFamily: {
-        sans: ['ui-sans-serif', 'system-ui'],
-        serif: ['ui-serif', 'Georgia'],
         comforter: ['Patrick Hand'],
+        serif: ['ui-serif', 'Georgia'],
         garamond: ['EB Garamond', 'serif'],
+        sans: ['ui-sans-serif', 'system-ui'],
+        spartan: ['League Spartan', 'sans-serif'],
         helvetica: ['Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
       },
     },

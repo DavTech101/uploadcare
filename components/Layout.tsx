@@ -18,7 +18,7 @@ const Wrapper = styled.div`
   grid-template-columns: 100%;
 `;
 
-const MainContainer = tw.div`bg-gray-200 flex w-full py-0 px-0.5`;
+const MainContainer = tw.div`font-sans bg-gray-200 flex w-full py-0 px-0.5`;
 
 const Main = tw.main`m-auto`;
 

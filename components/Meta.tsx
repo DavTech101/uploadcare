@@ -19,7 +19,6 @@ const Meta = ({ description, keywords, title }: Props) => {
       <meta name='keywords' content={keywords} />
       <meta name='description' content={description} />
       <meta name='viewport' content='width=device-width, initial-scale=1' />
-
       <link rel='icon' href='../favicon.png' />
 
       <title>{title}</title>

@@ -2,7 +2,7 @@ import React from 'react';
 import tw from 'twin.macro';
 
 //######### Component Styles #################
-const OuterWrapper = tw.div`bg-betcity-blue flex justify-center font-light text-white text-xs  `;
+const OuterWrapper = tw.div`bg-betcity-blue flex justify-center font-extralight text-gray-100 text-xs  `;
 
 //######### Component ########################
 const Footer = () => {
